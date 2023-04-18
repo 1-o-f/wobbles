@@ -27,7 +27,7 @@ Join Salt's Discord Themes server: https://discord.gg/uy8nKQVatp
 @import url("https://saltssaumure.github.io/xp-discord-theme/addon/xp-bg-image.css");
 
 :root {
-    --xp-bg-addon-image: url(none);
-    /* --xp-bg-addon-luminosity: 0%; */
+    --xp-bg-addon-image: url(https://wallpapers.com/images/featured/amh1tqh06166z417.jpg);
+    /* --xp-bg-addon-luminosity: 1%; */
     /* --xp-bg-addon-opacity: 1; */
 }
