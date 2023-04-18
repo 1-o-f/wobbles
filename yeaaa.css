@@ -29,11 +29,11 @@ Join Salt's Discord Themes server: https://discord.gg/uy8nKQVatp
 /* USER EDITABLE VARIABLES
  * --xp-bg-addon-image: https://wallpapers.com/images/featured/amh1tqh06166z417.jpg
  * --xp-bg-addon-luminosity: 0
- * --xp-bg-addon-opacity: 0-1 - 0 for fully transparent, 1 for fully opaque. OPTIONAL.
+ * --xp-bg-addon-opacity: 1
 */
 
 :root {
-    --xp-bg-addon-image: url(https://saltssaumure.github.io/xp-discord-theme/img/bliss.jpg);
+    --xp-bg-addon-image: url(none);
     /* --xp-bg-addon-luminosity: 0%; */
-    /* --xp-bg-addon-opacity: 0.4; */
+    /* --xp-bg-addon-opacity: 1; */
 }
